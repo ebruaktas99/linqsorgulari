@@ -1,0 +1,15 @@
+C:\Users\Ebru Aktaş\Desktop\EntityCodeFirst\EntityDevamLinq\EntityDevamLinq\bin\Debug\EntityDevamLinq.exe.config
+C:\Users\Ebru Aktaş\Desktop\EntityCodeFirst\EntityDevamLinq\EntityDevamLinq\bin\Debug\EntityDevamLinq.exe
+C:\Users\Ebru Aktaş\Desktop\EntityCodeFirst\EntityDevamLinq\EntityDevamLinq\bin\Debug\EntityDevamLinq.pdb
+C:\Users\Ebru Aktaş\Desktop\EntityCodeFirst\EntityDevamLinq\EntityDevamLinq\bin\Debug\EntityFramework.dll
+C:\Users\Ebru Aktaş\Desktop\EntityCodeFirst\EntityDevamLinq\EntityDevamLinq\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ebru Aktaş\Desktop\EntityCodeFirst\EntityDevamLinq\EntityDevamLinq\bin\Debug\EntityFramework.xml
+C:\Users\Ebru Aktaş\Desktop\EntityCodeFirst\EntityDevamLinq\EntityDevamLinq\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ebru Aktaş\Desktop\EntityCodeFirst\EntityDevamLinq\EntityDevamLinq\obj\Debug\EntityDevamLinq.csprojAssemblyReference.cache
+C:\Users\Ebru Aktaş\Desktop\EntityCodeFirst\EntityDevamLinq\EntityDevamLinq\obj\Debug\EntityDevamLinq.Form1.resources
+C:\Users\Ebru Aktaş\Desktop\EntityCodeFirst\EntityDevamLinq\EntityDevamLinq\obj\Debug\EntityDevamLinq.Properties.Resources.resources
+C:\Users\Ebru Aktaş\Desktop\EntityCodeFirst\EntityDevamLinq\EntityDevamLinq\obj\Debug\EntityDevamLinq.csproj.GenerateResource.cache
+C:\Users\Ebru Aktaş\Desktop\EntityCodeFirst\EntityDevamLinq\EntityDevamLinq\obj\Debug\EntityDevamLinq.csproj.CoreCompileInputs.cache
+C:\Users\Ebru Aktaş\Desktop\EntityCodeFirst\EntityDevamLinq\EntityDevamLinq\obj\Debug\EntityDevamLinq.csproj.CopyComplete
+C:\Users\Ebru Aktaş\Desktop\EntityCodeFirst\EntityDevamLinq\EntityDevamLinq\obj\Debug\EntityDevamLinq.exe
+C:\Users\Ebru Aktaş\Desktop\EntityCodeFirst\EntityDevamLinq\EntityDevamLinq\obj\Debug\EntityDevamLinq.pdb
